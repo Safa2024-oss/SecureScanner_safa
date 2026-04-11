@@ -33,7 +33,7 @@ export default function Layout({ user, onLogout }) {
       <aside className="sidebar">
         <div className="sidebar-logo">
           <ShieldCheck size={22} strokeWidth={2} />
-          <span>SecureScan</span>
+          <span>StackSafe</span>
         </div>
 
         <nav className="sidebar-nav">
