@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "Safa_pfe_dev",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "Safa_pfe_dev": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "Safa_pfe_dev",
+    "origin"
+  ]
+}
